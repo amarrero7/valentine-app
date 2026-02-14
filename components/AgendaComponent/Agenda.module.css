@@ -1,0 +1,44 @@
+.main {
+    margin-top: 4%;
+    display: flex;
+    align-items: center;
+    border: 2px black;
+    flex-direction: column;
+}
+
+.header1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    color: hsl(337, 11%, 54%);
+}
+
+.header2 {
+    display: flex;
+    align-items: center;
+    font-family:'Playfair Display';
+    font-style: italic;
+    font-size: 70px;
+    flex-direction: column;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.valentineWord {
+    color: hsl(340, 52%, 65%);
+}
+
+.message1 {
+    margin-top: 3%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: hsl(337, 11%, 54%);
+}
+
+.imageStyle {
+    box-shadow:0 4px 6px rgba(0, 0, 0, 0.1);
+    border: 50px;
+    margin-bottom: 40px;
+}
